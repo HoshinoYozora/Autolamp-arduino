@@ -19,7 +19,6 @@ bool stateDetection = false;
 int distance;
 int counter = 0;
 long keyPress;
-long keyPressTime = 0;
 long keyHold;
 bool isKeyHold = false;
 bool manualMode = false;
